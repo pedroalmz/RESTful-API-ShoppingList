@@ -119,13 +119,5 @@ This project was developed to practice:
 * Backend project organization
 * JSON data structures
 
-## Author
-
-Pedro Henrique
-
-Software Engineering student interested in backend development, APIs, and software engineering.
-
----
-
 If you find this project useful, feel free to explore the repository and other projects on my profile.
 
